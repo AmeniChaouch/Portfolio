@@ -1,6 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import About from "./components/About";
 import Experiences from "./components/Experiences";
 import Footer from "./components/Footer";
